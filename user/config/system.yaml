@@ -4,7 +4,7 @@ home:
   alias: '/home'
 
 pages:
-  theme: learn2-git-sync
+  theme: learn4
   markdown:
     extra: false
     auto_line_breaks: true
